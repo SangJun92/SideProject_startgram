@@ -13,5 +13,6 @@ public class MemberJoinDTO {
     //여기서 del이 어떤역할인지 주석 한 번 달아줘요 형
 
     // 알겠습니다 DTO 임시 테스트 하겠습니다
+    // test-01에만 커밋해보겠습니당
     
 }
